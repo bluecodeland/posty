@@ -1,1 +1,10 @@
-https://www.youtube.com/watch?v=MFh0Fd7BsjE&t=485s&ab_channel=TraversyMedia
+video tutorial:
+    https://www.youtube.com/watch?v=MFh0Fd7BsjE&t=485s&ab_channel=TraversyMedia
+
+notes:
+    body
+    title
+
+
+html editor:
+    https://summernote.org/getting-started/#run-summernote
