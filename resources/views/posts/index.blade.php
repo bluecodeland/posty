@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
     <div class="flex justify-center">
-        <div class="w-8/12 bg-white p-6 rounded-lg">
+        <div class="sm:w-8/12 bg-white p-6 rounded-lg">
             @if (session('success'))
             <div class="bg-green-500 p-4 rounded-lg mb-6 text-white text-center">
                 {{ session('success') }}

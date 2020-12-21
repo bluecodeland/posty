@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
-    <div class="flex justify-center">
-        <div class="w-4/12 bg-white p-6 rounded-lg">
+    <div class="flex h-screen justify-center items-center -mt-16 sm:-mt-34">
+        <div class=" w-12/12 w-full  sm:w-4/12 bg-white p-6 rounded-lg">
 
             <form action="{{ route('register') }}" method="POST">
                 @csrf

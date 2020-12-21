@@ -8,3 +8,18 @@ notes:
 
 html editor:
     https://summernote.org/getting-started/#run-summernote
+    https://ckeditor.com/
+    https://froala.com/ (+template Builder)
+    https://quilljs.com/
+    
+
+    laravel helper:
+    
+    
+            {{-- @auth --}}
+            {{-- @endauth --}}
+            {{-- @if (auth()->user()) --}}
+            {{-- @else  --}}
+            {{-- @guest --}}
+            {{-- @endguest --}}
+            {{-- @endif --}}
