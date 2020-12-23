@@ -38,5 +38,5 @@ Route::post('/note',[NoteController::class, 'store']);
 
 
 Route::get('/', function () {
-    return view('posts.index');
+    return view('home');
 })->name('home');
