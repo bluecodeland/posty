@@ -15,7 +15,7 @@ class PostController extends Controller
     
  public function index() 
  {
-    $posts = Post::paginate(2);
+    $posts = Post::paginate(50);
     // $posts = Post::get(); //get all posts and put in variable;
     // $posts = Post::where(); //get all posts where * and put in variable;
     // $posts = Post::find(); //find all posts with id * wand put in variable;
