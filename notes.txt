@@ -23,3 +23,7 @@ html editor:
             {{-- @guest --}}
             {{-- @endguest --}}
             {{-- @endif --}}
+
+free stuffs: 
+    random avatar :
+        https://pravatar.cc            
